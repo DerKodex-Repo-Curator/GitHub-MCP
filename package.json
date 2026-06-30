@@ -21,7 +21,7 @@
     "mongodb"
   ],
   "author": "Padmanabha Das",
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "dev": "ts-node src/server.ts",
     "build": "tsc",

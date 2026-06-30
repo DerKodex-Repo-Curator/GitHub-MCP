@@ -5,7 +5,7 @@
 [![TypeScript](https://img.shields.io/badge/typescript-5.9.2-blue.svg)](https://www.typescriptlang.org/)
 [![Express](https://img.shields.io/badge/express-5.1.0-black.svg)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/mongodb-6.19.0-green.svg)](https://www.mongodb.com/)
-[![License](https://img.shields.io/badge/license-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![MCP](https://img.shields.io/badge/model_context_protocol-compliant-purple.svg)](https://modelcontextprotocol.io/)
 [![GitHub OAuth](https://img.shields.io/badge/github-oauth-black.svg)](https://docs.github.com/en/developers/apps/building-oauth-apps)
 
@@ -371,7 +371,7 @@ the functionality based on your requirements
 
 ## 🔗 License
 
-ISC
+MIT
 
 ---
 
